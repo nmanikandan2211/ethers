@@ -14,4 +14,4 @@ const main = async () => {
 };
 
 main();
-console.log("Please wait");
+console.log("Please wait..");
